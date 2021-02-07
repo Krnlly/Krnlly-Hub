@@ -1,5 +1,6 @@
 -] Sewer City:
 +| autofarm on/off
++| gunlock [player]/
 
 -] Brawl 2:
 +| godmode 
@@ -15,3 +16,17 @@
 
 -] Blox Fruits:
 +| autofarm on/off
+
+-] Mortem Metallum:
++| autoblock
++| teleport
++| distance [number]
++| antistun on/off
++| gunlock [player]/
+
+-] Mad City:
++| walkspeed on/off
++| jumppower on/off
+
+-] Da Hood:
++| gunlock [player]/
