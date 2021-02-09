@@ -1,6 +1,6 @@
 -] Sewer City:
 +| autofarm on/off
-+| gunlock [player]/
++| gunlock
 
 -] Brawl 2:
 +| godmode 
@@ -22,14 +22,14 @@
 +| teleport
 +| distance [number]
 +| antistun on/off
-+| gunlock [player]/
++| gunlock
 
 -] Mad City:
 +| walkspeed on/off
 +| jumppower on/off
 
 -] Da Hood:
-+| gunlock [player]/
++| gunlock
 
 -] Jailbreak:
 +| walkspeed
