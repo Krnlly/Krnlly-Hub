@@ -47,3 +47,11 @@
 +| walkspeed off
 +| jumppower on
 +| jumppower off
+
+-] SharkBite:
++| sharkesp on
++| sharkesp off
++| chest
++| flaregun
++| infammo
++| killsurvivors
