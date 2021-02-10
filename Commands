@@ -37,3 +37,13 @@
 
 -] KAT:
 +| silent aim
+
+-] Build A Boat For Treasure:
++| autofarm
++| chicken
++| fox
++| penguin
++| walkspeed on
++| walkspeed off
++| jumppower on
++| jumppower off
