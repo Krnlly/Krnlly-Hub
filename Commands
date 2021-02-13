@@ -55,3 +55,8 @@
 +| flaregun
 +| infammo
 +| killsurvivors
+
+-] Universal:
++| fly
++| walkspeed [number]
++| jumppower [number]
