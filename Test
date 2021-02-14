@@ -115,7 +115,7 @@ function OxyLibrary:Create()
         Oxy.Font = Enum.Font.GothamBold
         Oxy.Text = "Krnlly"
         Oxy.TextColor3 = Color3.fromRGB(255, 215, 0)
-        Oxy.TextSize = 20.000
+        Oxy.TextSize = 15.000
         Oxy.TextWrapped = true
         Oxy.TextXAlignment = Enum.TextXAlignment.Left
 
@@ -129,7 +129,7 @@ function OxyLibrary:Create()
         Hub.Font = Enum.Font.GothamBold
         Hub.Text = "Hub"
         Hub.TextColor3 = Color3.fromRGB(255, 255, 255)
-        Hub.TextSize = 20.000
+        Hub.TextSize = 15.000
         Hub.TextWrapped = true
         Hub.TextXAlignment = Enum.TextXAlignment.Left
 
