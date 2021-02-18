@@ -56,6 +56,10 @@
 +| infammo
 +| killsurvivors
 
+-] Elemental Battlegrounds:
++| autofarm on
++| autofarm off
+
 -] Universal:
 +| fly
 +| walkspeed [number]
